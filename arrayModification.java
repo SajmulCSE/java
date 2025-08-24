@@ -1,4 +1,4 @@
-import java.util.Scanner;
+// import java.util.Scanner;
 
 public class arrayModification {
     public static void main(String[] args) {
@@ -7,7 +7,7 @@ public class arrayModification {
         System.out.println("Main array");
         printArray(arr);
 
-        Scanner input = new Scanner(System.in);
+        // Scanner input = new Scanner(System.in);
 
         System.out.println("Enter the index number");
         

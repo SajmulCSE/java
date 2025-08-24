@@ -31,6 +31,10 @@ public class oopclass {
         public void startEngine() {
             System.out.println("The " + color + " " + make + " " + model + " " + "'s engine is starting");
         }
+
+        // ~Car() {
+        //     System.out.println("Destrctor is called");
+        // }
     }
 
     public static void main(String[] args) {
