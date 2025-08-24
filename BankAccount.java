@@ -62,7 +62,6 @@ public class BankAccount {
         System.out.println();
         myAccount.displayAccountInfo();
         System.out.println();
-
         System.out.println(myAccount.accountHolder);
     }
 }
